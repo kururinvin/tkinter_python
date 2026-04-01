@@ -71,4 +71,5 @@ def clicar():
     messagebox.showinfo("Mensagem: ",f"Nome: {nome}, Sobrenome: {sobrenome}, Nascido em: {nasc}, CPF: {cpf}, CEP: {cep}, Sexo: {sexo}, Estado: {estado}, Cidade: {cidade}.")
 btn = tk.Button(janela, text="Enviar formulário", command=clicar)
 btn.place(x=20, y=475)
+
 janela.mainloop()

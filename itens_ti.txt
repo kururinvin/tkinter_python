@@ -1,0 +1,200 @@
+1,Mouse Óptico USB,45,39.90
+2,Teclado Mecânico RGB,30,199.90
+3,Monitor LED 24",20,899.90
+4,Notebook Intel i5,15,3499.90
+5,HD Externo 1TB,25,329.90
+6,SSD 480GB,40,279.90
+7,Memória RAM 8GB DDR4,50,189.90
+8,Placa de Vídeo GTX 1650,10,1299.90
+9,Processador Ryzen 5,18,1199.90
+10,Fonte 500W,35,249.90
+11,Cabo HDMI 2m,100,29.90
+12,Webcam Full HD,22,149.90
+13,Headset Gamer,28,159.90
+14,Mousepad Grande,60,49.90
+15,Switch 8 Portas,17,199.90
+16,Roteador Wi-Fi Dual Band,21,249.90
+17,Impressora Multifuncional,12,699.90
+18,Scanner de Mesa,8,899.90
+19,Pen Drive 32GB,80,29.90
+20,Pen Drive 64GB,70,49.90
+21,Cadeira Gamer,9,999.90
+22,Mesa para Computador,11,499.90
+23,Suporte para Notebook,40,79.90
+24,Cooler para CPU,33,89.90
+25,Placa Mãe B450,16,599.90
+26,Placa Mãe B550,14,799.90
+27,Placa de Rede PCI,19,79.90
+28,Adaptador USB Wi-Fi,44,59.90
+29,Fone Bluetooth,26,129.90
+30,Caixa de Som USB,38,99.90
+31,Monitor 27" Curvo,7,1299.90
+32,Notebook i7 16GB RAM,6,5499.90
+33,SSD NVMe 1TB,20,499.90
+34,HD Interno 2TB,15,399.90
+35,Memória RAM 16GB DDR4,25,349.90
+36,Placa de Vídeo RTX 3060,5,2499.90
+37,Processador Intel i7,9,1999.90
+38,Fonte 750W,12,399.90
+39,Cabo VGA,50,19.90
+40,Cabo DisplayPort,40,49.90
+41,Webcam 4K,5,499.90
+42,Headset Sem Fio,10,399.90
+43,Mouse Gamer RGB,30,149.90
+44,Teclado Sem Fio,35,129.90
+45,Tablet 10",14,999.90
+46,Smartphone Android,18,1499.90
+47,Carregador USB-C,60,59.90
+48,Power Bank 10000mAh,45,89.90
+49,Hub USB 4 Portas,55,49.90
+50,Hub USB 7 Portas,40,79.90
+51,Cabo USB Tipo C,100,29.90
+52,Cabo Lightning,90,39.90
+53,Cabo de Rede 10m,70,49.90
+54,Switch 16 Portas,12,399.90
+55,Roteador Mesh,8,799.90
+56,Access Point,10,499.90
+57,Impressora Laser,9,1199.90
+58,Toner Compatível,60,79.90
+59,Scanner Portátil,7,699.90
+60,Pen Drive 128GB,50,79.90
+61,Cadeira Escritório,20,499.90
+62,Suporte Monitor,30,89.90
+63,Cooler Notebook,35,79.90
+64,Placa de Som,18,129.90
+65,Adaptador HDMI-VGA,25,39.90
+66,Leitor de Cartão,40,29.90
+67,Fone In-Ear,60,49.90
+68,Caixa de Som Bluetooth,25,199.90
+69,Monitor 19",30,599.90
+70,Notebook Básico,22,2499.90
+71,SSD 240GB,45,159.90
+72,HD 500GB,35,199.90
+73,Memória RAM 4GB,50,99.90
+74,Placa de Vídeo GT 1030,12,599.90
+75,Processador i3,20,699.90
+76,Fonte 400W,30,199.90
+77,Cabo HDMI 5m,60,49.90
+78,Webcam HD,28,99.90
+79,Headset USB,26,129.90
+80,Mouse Óptico Sem Fio,40,59.90
+81,Teclado USB Simples,50,49.90
+82,Tablet 8",18,699.90
+83,Smartphone Básico,22,899.90
+84,Carregador Veicular,45,39.90
+85,Power Bank 20000mAh,30,129.90
+86,Hub USB-C,35,79.90
+87,Cabo USB 2m,80,19.90
+88,Cabo de Rede 20m,50,69.90
+89,Switch 24 Portas,6,699.90
+90,Roteador AC1200,20,199.90
+91,Access Point Outdoor,5,899.90
+92,Impressora Térmica,10,499.90
+93,Toner Original,40,199.90
+94,Scanner Profissional,4,1999.90
+95,Pen Drive 256GB,20,149.90
+96,Cadeira Presidente,8,899.90
+97,Suporte TV/Monitor,15,149.90
+98,Cooler RGB,30,99.90
+99,Placa Mãe X570,5,1299.90
+100,Adaptador Bluetooth USB,40,39.90
+101,Fone Gamer Pro,12,299.90
+102,Caixa de Som 2.1,15,249.90
+103,Monitor 32",5,1999.90
+104,Notebook Gamer,6,7999.90
+105,SSD 2TB,8,899.90
+106,HD 4TB,7,699.90
+107,Memória RAM 32GB,6,799.90
+108,Placa RTX 4080,2,8999.90
+109,Processador i9,3,3499.90
+110,Fonte 1000W,5,899.90
+111,Cabo HDMI 10m,20,99.90
+112,Webcam Profissional,4,899.90
+113,Headset Studio,7,599.90
+114,Mouse Ergonômico,25,129.90
+115,Teclado Ergonômico,20,199.90
+116,Tablet Pro,10,2499.90
+117,Smartphone Premium,12,4999.90
+118,Carregador Wireless,35,99.90
+119,Power Bank Solar,15,149.90
+120,Hub USB Industrial,10,199.90
+121,Cabo USB Reforçado,70,39.90
+122,Cabo Fibra Óptica,12,299.90
+123,Switch Gerenciável,8,999.90
+124,Roteador Empresarial,5,1999.90
+125,Access Point Indoor,10,599.90
+126,Impressora 3D,4,2499.90
+127,Toner Colorido,20,299.90
+128,Scanner A3,3,2999.90
+129,Pen Drive 512GB,10,299.90
+130,Cadeira Office Luxo,5,1299.90
+131,Suporte Ajustável,20,119.90
+132,Cooler Water Cooler,8,499.90
+133,Placa Mãe Z690,4,1499.90
+134,Adaptador USB Ethernet,30,59.90
+135,Fone Over-Ear,20,199.90
+136,Caixa de Som Portátil,25,149.90
+137,Monitor Touchscreen,6,1799.90
+138,Notebook Ultrafino,8,3999.90
+139,SSD Externo 1TB,15,599.90
+140,HD Externo 4TB,10,899.90
+141,Memória ECC,5,699.90
+142,Placa Profissional Quadro,2,4999.90
+143,Processador Xeon,3,2999.90
+144,Fonte Modular,10,599.90
+145,Cabo HDMI Ultra,30,79.90
+146,Webcam Streaming,12,299.90
+147,Headset VR,5,1999.90
+148,Mouse Vertical,18,119.90
+149,Teclado Compacto,25,99.90
+150,Tablet Infantil,20,499.90
+151,Smartphone Intermediário,30,1999.90
+152,Carregador Turbo,40,79.90
+153,Power Bank Compacto,35,59.90
+154,Hub USB Slim,45,39.90
+155,Cabo USB Nylon,50,29.90
+156,Cabo Cat6,60,49.90
+157,Switch PoE,8,799.90
+158,Roteador Gaming,6,1299.90
+159,Access Point Mesh,10,699.90
+160,Impressora Colorida,12,899.90
+161,Toner Refil,50,49.90
+162,Scanner USB,15,299.90
+163,Pen Drive OTG,40,59.90
+164,Cadeira Dobrável,20,199.90
+165,Suporte Laptop,35,69.90
+166,Cooler Silencioso,30,89.90
+167,Placa Captura Vídeo,10,399.90
+168,Adaptador Display,25,59.90
+169,Fone Bluetooth Pro,15,249.90
+170,Caixa Som Party,8,799.90
+171,Monitor 4K,5,2499.90
+172,Notebook Business,7,4999.90
+173,SSD SATA,20,199.90
+174,HD NAS,6,899.90
+175,Memória Laptop 8GB,25,179.90
+176,Placa RTX 3050,10,1999.90
+177,Processador Ryzen 7,8,1799.90
+178,Fonte Gamer,12,399.90
+179,Cabo USB Curto,50,19.90
+180,Webcam Básica,30,79.90
+181,Headset Leve,35,99.90
+182,Mouse Compacto,45,49.90
+183,Teclado Multimídia,40,79.90
+184,Tablet Android,25,899.90
+185,Smartphone 5G,20,2499.90
+186,Carregador Universal,30,59.90
+187,Power Bank Fast Charge,20,119.90
+188,Hub USB Dock,15,199.90
+189,Cabo USB Extensor,40,29.90
+190,Cabo Patch Cord,70,19.90
+191,Switch Rack,5,1499.90
+192,Roteador Portátil,12,299.90
+193,Access Point Compacto,18,399.90
+194,Impressora Wi-Fi,10,699.90
+195,Toner Laser,35,149.90
+196,Scanner Portátil Mini,12,249.90
+197,Pen Drive Metálico,30,69.90
+198,Cadeira Gamer Pro,6,1499.90
+199,Suporte Tablet,25,59.90
+200,Cooler RGB Pro,20,129.90
